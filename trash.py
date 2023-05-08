@@ -1,0 +1,1 @@
+print('67h67868'.isdigit())

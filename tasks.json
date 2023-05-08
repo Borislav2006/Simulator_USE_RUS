@@ -1,0 +1,2166 @@
+{
+    "task_1": {
+        "quiz_1": {
+            "task_number": 1,
+            "quiz_number": 1,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_1",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_1.png",
+            "correct_answer": "Что",
+            "quiz_explanation": null
+        },
+        "quiz_2": {
+            "task_number": 1,
+            "quiz_number": 2,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_2",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_2.png",
+            "correct_answer": "Именно|Как раз|Вот",
+            "quiz_explanation": null
+        },
+        "quiz_3": {
+            "task_number": 1,
+            "quiz_number": 3,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_3",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_3.png",
+            "correct_answer": "Если|Когда",
+            "quiz_explanation": null
+        },
+        "quiz_4": {
+            "task_number": 1,
+            "quiz_number": 4,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_4",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_4.png",
+            "correct_answer": "Которой|Который",
+            "quiz_explanation": null
+        },
+        "quiz_5": {
+            "task_number": 1,
+            "quiz_number": 5,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_5",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_5.png",
+            "correct_answer": "Такой|Такая",
+            "quiz_explanation": null
+        },
+        "quiz_6": {
+            "task_number": 1,
+            "quiz_number": 6,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_6",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_6.png",
+            "correct_answer": "Другой",
+            "quiz_explanation": null
+        },
+        "quiz_7": {
+            "task_number": 1,
+            "quiz_number": 7,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_7",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_7.png",
+            "correct_answer": "Это",
+            "quiz_explanation": null
+        },
+        "quiz_8": {
+            "task_number": 1,
+            "quiz_number": 8,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_8",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_8.png",
+            "correct_answer": "Лишь|Только|Всего-навсего|Лишь только|Всего лишь",
+            "quiz_explanation": null
+        },
+        "quiz_9": {
+            "task_number": 1,
+            "quiz_number": 9,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_9",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_9.png",
+            "correct_answer": "Его",
+            "quiz_explanation": null
+        },
+        "quiz_10": {
+            "task_number": 1,
+            "quiz_number": 10,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_10",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_10.png",
+            "correct_answer": "Другой|Другая",
+            "quiz_explanation": null
+        },
+        "quiz_11": {
+            "task_number": 1,
+            "quiz_number": 11,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_11",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_11.png",
+            "correct_answer": "Вовсе|Отнюдь|Далеко",
+            "quiz_explanation": null
+        },
+        "quiz_12": {
+            "task_number": 1,
+            "quiz_number": 12,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_12",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_12.png",
+            "correct_answer": "Лишь|Только|Всего-навсего|Лишь только|Всего лишь",
+            "quiz_explanation": null
+        },
+        "quiz_13": {
+            "task_number": 1,
+            "quiz_number": 13,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_13",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_13.png",
+            "correct_answer": "Иных|Других",
+            "quiz_explanation": null
+        },
+        "quiz_14": {
+            "task_number": 1,
+            "quiz_number": 14,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_14",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_14.png",
+            "correct_answer": "Во-вторых",
+            "quiz_explanation": null
+        },
+        "quiz_15": {
+            "task_number": 1,
+            "quiz_number": 15,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_15",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_15.png",
+            "correct_answer": "Благодаря",
+            "quiz_explanation": null
+        },
+        "quiz_16": {
+            "task_number": 1,
+            "quiz_number": 16,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_16",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_16.png",
+            "correct_answer": "Чём-то|Чём-либо|Чём-нибудь",
+            "quiz_explanation": null
+        },
+        "quiz_17": {
+            "task_number": 1,
+            "quiz_number": 17,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_17",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_17.png",
+            "correct_answer": "Среди|Из",
+            "quiz_explanation": null
+        },
+        "quiz_18": {
+            "task_number": 1,
+            "quiz_number": 18,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_18",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_18.png",
+            "correct_answer": "Первое",
+            "quiz_explanation": null
+        },
+        "quiz_19": {
+            "task_number": 1,
+            "quiz_number": 19,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_19",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_19.png",
+            "correct_answer": "Вдоль",
+            "quiz_explanation": null
+        },
+        "quiz_20": {
+            "task_number": 1,
+            "quiz_number": 20,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_20",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_20.png",
+            "correct_answer": "Такое",
+            "quiz_explanation": null
+        },
+        "quiz_21": {
+            "task_number": 1,
+            "quiz_number": 21,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_21",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_21.png",
+            "correct_answer": "Так",
+            "quiz_explanation": null
+        },
+        "quiz_22": {
+            "task_number": 1,
+            "quiz_number": 22,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_22",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_22.png",
+            "correct_answer": "Поэтому|Потому",
+            "quiz_explanation": null
+        },
+        "quiz_23": {
+            "task_number": 1,
+            "quiz_number": 23,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_23",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_23.png",
+            "correct_answer": "Однако|Но|А",
+            "quiz_explanation": null
+        },
+        "quiz_24": {
+            "task_number": 1,
+            "quiz_number": 24,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_24",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_24.png",
+            "correct_answer": "Именно|Как раз",
+            "quiz_explanation": null
+        },
+        "quiz_25": {
+            "task_number": 1,
+            "quiz_number": 25,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_25",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_25.png",
+            "correct_answer": "В силу|По причине|Вследствие|Ввиду",
+            "quiz_explanation": null
+        },
+        "quiz_26": {
+            "task_number": 1,
+            "quiz_number": 26,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_26",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_26.png",
+            "correct_answer": "Её|Ее",
+            "quiz_explanation": null
+        },
+        "quiz_27": {
+            "task_number": 1,
+            "quiz_number": 27,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_27",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_27.png",
+            "correct_answer": "Крайне|Весьма|Очень|Довольно|Особенно|Невероятно",
+            "quiz_explanation": null
+        },
+        "quiz_28": {
+            "task_number": 1,
+            "quiz_number": 28,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_28",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_28.png",
+            "correct_answer": "Которыми|Которые",
+            "quiz_explanation": null
+        },
+        "quiz_29": {
+            "task_number": 1,
+            "quiz_number": 29,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_29",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_29.png",
+            "correct_answer": "Него",
+            "quiz_explanation": null
+        },
+        "quiz_30": {
+            "task_number": 1,
+            "quiz_number": 30,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_30",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_30.png",
+            "correct_answer": "Как",
+            "quiz_explanation": null
+        },
+        "quiz_31": {
+            "task_number": 1,
+            "quiz_number": 31,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_31",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_31.png",
+            "correct_answer": "Ведь|Потому что|Так как",
+            "quiz_explanation": null
+        },
+        "quiz_32": {
+            "task_number": 1,
+            "quiz_number": 32,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_32",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_32.png",
+            "correct_answer": "Например|К примеру",
+            "quiz_explanation": null
+        },
+        "quiz_33": {
+            "task_number": 1,
+            "quiz_number": 33,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_33",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_33.png",
+            "correct_answer": "Все",
+            "quiz_explanation": null
+        },
+        "quiz_34": {
+            "task_number": 1,
+            "quiz_number": 34,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_34",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_34.png",
+            "correct_answer": "Однако|Но|Тем не менее",
+            "quiz_explanation": null
+        },
+        "quiz_35": {
+            "task_number": 1,
+            "quiz_number": 35,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_35",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_35.png",
+            "correct_answer": "Вместо|Взамен",
+            "quiz_explanation": null
+        },
+        "quiz_36": {
+            "task_number": 1,
+            "quiz_number": 36,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_36",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_36.png",
+            "correct_answer": "За счёт|Посредством|При помощи|С помощью",
+            "quiz_explanation": null
+        },
+        "quiz_37": {
+            "task_number": 1,
+            "quiz_number": 37,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_37",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_37.png",
+            "correct_answer": "Посредством|С помощью|При помощи",
+            "quiz_explanation": null
+        },
+        "quiz_38": {
+            "task_number": 1,
+            "quiz_number": 38,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_38",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_38.png",
+            "correct_answer": "Например|К примеру|В частности",
+            "quiz_explanation": null
+        },
+        "quiz_39": {
+            "task_number": 1,
+            "quiz_number": 39,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_39",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_39.png",
+            "correct_answer": "Во-вторых",
+            "quiz_explanation": null
+        },
+        "quiz_40": {
+            "task_number": 1,
+            "quiz_number": 40,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_40",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_40.png",
+            "correct_answer": "Ею|Ей",
+            "quiz_explanation": null
+        },
+        "quiz_41": {
+            "task_number": 1,
+            "quiz_number": 41,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_41",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_41.png",
+            "correct_answer": "Где|В котором",
+            "quiz_explanation": null
+        },
+        "quiz_42": {
+            "task_number": 1,
+            "quiz_number": 42,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_42",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_42.png",
+            "correct_answer": "Свой",
+            "quiz_explanation": null
+        },
+        "quiz_43": {
+            "task_number": 1,
+            "quiz_number": 43,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_43",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_43.png",
+            "correct_answer": "Чтобы|Для того чтобы|Дабы",
+            "quiz_explanation": null
+        },
+        "quiz_44": {
+            "task_number": 1,
+            "quiz_number": 44,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_44",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_44.png",
+            "correct_answer": "Таких|Этих",
+            "quiz_explanation": null
+        },
+        "quiz_45": {
+            "task_number": 1,
+            "quiz_number": 45,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_45",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_45.png",
+            "correct_answer": "Именно|Как раз",
+            "quiz_explanation": null
+        },
+        "quiz_46": {
+            "task_number": 1,
+            "quiz_number": 46,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_46",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_46.png",
+            "correct_answer": "Несмотря на|Невзирая на",
+            "quiz_explanation": null
+        },
+        "quiz_47": {
+            "task_number": 1,
+            "quiz_number": 47,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_47",
+            "quiz_condition": "Tasks_materials\\con ditions_of_quizzes\\task_1\\quiz_47.png",
+            "correct_answer": "Так как|Поскольку",
+            "quiz_explanation": null
+        },
+        "quiz_48": {
+            "task_number": 1,
+            "quiz_number": 48,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_48",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_48.png",
+            "correct_answer": "Же|Ведь|Всё-таки|Все-таки",
+            "quiz_explanation": null
+        },
+        "quiz_49": {
+            "task_number": 1,
+            "quiz_number": 49,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_49",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_49.png",
+            "correct_answer": "Каждый|Всякий",
+            "quiz_explanation": null
+        },
+        "quiz_50": {
+            "task_number": 1,
+            "quiz_number": 50,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_50",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_50.png",
+            "correct_answer": "Среди|Посреди",
+            "quiz_explanation": null
+        },
+        "quiz_51": {
+            "task_number": 1,
+            "quiz_number": 51,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_51",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_51.png",
+            "correct_answer": "Или|Либо",
+            "quiz_explanation": null
+        },
+        "quiz_52": {
+            "task_number": 1,
+            "quiz_number": 52,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_52",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_52.png",
+            "correct_answer": "В течение|На протяжении",
+            "quiz_explanation": null
+        },
+        "quiz_53": {
+            "task_number": 1,
+            "quiz_number": 53,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_53",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_53.png",
+            "correct_answer": "Других|Иных",
+            "quiz_explanation": null
+        },
+        "quiz_54": {
+            "task_number": 1,
+            "quiz_number": 54,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_54",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_54.png",
+            "correct_answer": "Где|В котором",
+            "quiz_explanation": null
+        },
+        "quiz_55": {
+            "task_number": 1,
+            "quiz_number": 55,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_55",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_55.png",
+            "correct_answer": "Следовательно|А следовательно|Иначе говоря|Таким образом|Иными словами|Другими словами|Выходит|Получается",
+            "quiz_explanation": null
+        },
+        "quiz_56": {
+            "task_number": 1,
+            "quiz_number": 56,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_56",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_56.png",
+            "correct_answer": "Вследствие|Ввиду|Из-за|По причине|В силу",
+            "quiz_explanation": null
+        },
+        "quiz_57": {
+            "task_number": 1,
+            "quiz_number": 57,
+            "photo_of_answer_options": null,
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_1\\quiz_57",
+            "quiz_condition": "Tasks_materials\\conditions_of_quizzes\\task_1\\quiz_57.png",
+            "correct_answer": "Именно|Как раз|Прямо",
+            "quiz_explanation": null
+        }
+    },
+    "task_2": {
+        "quiz_1": {
+            "task_number": 2,
+            "quiz_number": 58,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_1",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_2": {
+            "task_number": 2,
+            "quiz_number": 59,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_2",
+            "quiz_condition": null,
+            "correct_answer": "14",
+            "quiz_explanation": null
+        },
+        "quiz_3": {
+            "task_number": 2,
+            "quiz_number": 60,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_3",
+            "quiz_condition": null,
+            "correct_answer": "15",
+            "quiz_explanation": null
+        },
+        "quiz_4": {
+            "task_number": 2,
+            "quiz_number": 61,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_4",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_5": {
+            "task_number": 2,
+            "quiz_number": 62,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_5",
+            "quiz_condition": null,
+            "correct_answer": "13",
+            "quiz_explanation": null
+        },
+        "quiz_6": {
+            "task_number": 2,
+            "quiz_number": 63,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_6",
+            "quiz_condition": null,
+            "correct_answer": "345",
+            "quiz_explanation": null
+        },
+        "quiz_7": {
+            "task_number": 2,
+            "quiz_number": 64,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_7",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        },
+        "quiz_8": {
+            "task_number": 2,
+            "quiz_number": 65,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_8",
+            "quiz_condition": null,
+            "correct_answer": "124",
+            "quiz_explanation": null
+        },
+        "quiz_9": {
+            "task_number": 2,
+            "quiz_number": 66,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_9",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_10": {
+            "task_number": 2,
+            "quiz_number": 67,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_10",
+            "quiz_condition": null,
+            "correct_answer": "125",
+            "quiz_explanation": null
+        },
+        "quiz_11": {
+            "task_number": 2,
+            "quiz_number": 68,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_11",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_12": {
+            "task_number": 2,
+            "quiz_number": 69,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_12",
+            "quiz_condition": null,
+            "correct_answer": "15",
+            "quiz_explanation": null
+        },
+        "quiz_13": {
+            "task_number": 2,
+            "quiz_number": 70,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_13",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_14": {
+            "task_number": 2,
+            "quiz_number": 71,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_14",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_15": {
+            "task_number": 2,
+            "quiz_number": 72,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_15",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_16": {
+            "task_number": 2,
+            "quiz_number": 73,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_16",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_17": {
+            "task_number": 2,
+            "quiz_number": 74,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_17",
+            "quiz_condition": null,
+            "correct_answer": "235",
+            "quiz_explanation": null
+        },
+        "quiz_18": {
+            "task_number": 2,
+            "quiz_number": 75,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_18",
+            "quiz_condition": null,
+            "correct_answer": "345",
+            "quiz_explanation": null
+        },
+        "quiz_19": {
+            "task_number": 2,
+            "quiz_number": 76,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_19",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_20": {
+            "task_number": 2,
+            "quiz_number": 77,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_20",
+            "quiz_condition": null,
+            "correct_answer": "45",
+            "quiz_explanation": null
+        },
+        "quiz_21": {
+            "task_number": 2,
+            "quiz_number": 78,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_21",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_22": {
+            "task_number": 2,
+            "quiz_number": 79,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_22",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_23": {
+            "task_number": 2,
+            "quiz_number": 80,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_23",
+            "quiz_condition": null,
+            "correct_answer": "13",
+            "quiz_explanation": null
+        },
+        "quiz_24": {
+            "task_number": 2,
+            "quiz_number": 81,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_24",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_25": {
+            "task_number": 2,
+            "quiz_number": 82,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_25",
+            "quiz_condition": null,
+            "correct_answer": "1235",
+            "quiz_explanation": null
+        },
+        "quiz_26": {
+            "task_number": 2,
+            "quiz_number": 83,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_26",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_27": {
+            "task_number": 2,
+            "quiz_number": 84,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_27",
+            "quiz_condition": null,
+            "correct_answer": "135",
+            "quiz_explanation": null
+        },
+        "quiz_28": {
+            "task_number": 2,
+            "quiz_number": 85,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_28",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_29": {
+            "task_number": 2,
+            "quiz_number": 86,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_29",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_30": {
+            "task_number": 2,
+            "quiz_number": 87,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_30",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_31": {
+            "task_number": 2,
+            "quiz_number": 88,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_31",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_32": {
+            "task_number": 2,
+            "quiz_number": 89,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_32",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_33": {
+            "task_number": 2,
+            "quiz_number": 90,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_33",
+            "quiz_condition": null,
+            "correct_answer": "235",
+            "quiz_explanation": null
+        },
+        "quiz_34": {
+            "task_number": 2,
+            "quiz_number": 91,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_34",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_35": {
+            "task_number": 2,
+            "quiz_number": 92,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_35",
+            "quiz_condition": null,
+            "correct_answer": "13",
+            "quiz_explanation": null
+        },
+        "quiz_36": {
+            "task_number": 2,
+            "quiz_number": 93,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_36",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_37": {
+            "task_number": 2,
+            "quiz_number": 94,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_37",
+            "quiz_condition": null,
+            "correct_answer": "124",
+            "quiz_explanation": null
+        },
+        "quiz_38": {
+            "task_number": 2,
+            "quiz_number": 95,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_38",
+            "quiz_condition": null,
+            "correct_answer": "12",
+            "quiz_explanation": null
+        },
+        "quiz_39": {
+            "task_number": 2,
+            "quiz_number": 96,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_39",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_40": {
+            "task_number": 2,
+            "quiz_number": 97,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_40",
+            "quiz_condition": null,
+            "correct_answer": "125",
+            "quiz_explanation": null
+        },
+        "quiz_41": {
+            "task_number": 2,
+            "quiz_number": 98,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_41",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_42": {
+            "task_number": 2,
+            "quiz_number": 99,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_42",
+            "quiz_condition": null,
+            "correct_answer": "15",
+            "quiz_explanation": null
+        },
+        "quiz_43": {
+            "task_number": 2,
+            "quiz_number": 100,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_43",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        },
+        "quiz_44": {
+            "task_number": 2,
+            "quiz_number": 101,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_44",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_45": {
+            "task_number": 2,
+            "quiz_number": 102,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_45",
+            "quiz_condition": null,
+            "correct_answer": "13",
+            "quiz_explanation": null
+        },
+        "quiz_46": {
+            "task_number": 2,
+            "quiz_number": 103,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_46",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_47": {
+            "task_number": 2,
+            "quiz_number": 104,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_47",
+            "quiz_condition": null,
+            "correct_answer": "14",
+            "quiz_explanation": null
+        },
+        "quiz_48": {
+            "task_number": 2,
+            "quiz_number": 105,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_48",
+            "quiz_condition": null,
+            "correct_answer": "245",
+            "quiz_explanation": null
+        },
+        "quiz_49": {
+            "task_number": 2,
+            "quiz_number": 106,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_49",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_50": {
+            "task_number": 2,
+            "quiz_number": 107,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_50",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_51": {
+            "task_number": 2,
+            "quiz_number": 108,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_51",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_52": {
+            "task_number": 2,
+            "quiz_number": 109,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_52",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_53": {
+            "task_number": 2,
+            "quiz_number": 110,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_53",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_54": {
+            "task_number": 2,
+            "quiz_number": 111,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_54",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_55": {
+            "task_number": 2,
+            "quiz_number": 112,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_55",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        },
+        "quiz_56": {
+            "task_number": 2,
+            "quiz_number": 113,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_56",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_57": {
+            "task_number": 2,
+            "quiz_number": 114,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_57",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_58": {
+            "task_number": 2,
+            "quiz_number": 115,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_2\\quiz_58",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        }
+    },
+    "task_3": {
+        "quiz_1": {
+            "task_number": 3,
+            "quiz_number": 116,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_1",
+            "quiz_condition": null,
+            "correct_answer": "235",
+            "quiz_explanation": null
+        },
+        "quiz_2": {
+            "task_number": 3,
+            "quiz_number": 117,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_2",
+            "quiz_condition": null,
+            "correct_answer": "1235",
+            "quiz_explanation": null
+        },
+        "quiz_3": {
+            "task_number": 3,
+            "quiz_number": 118,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_3",
+            "quiz_condition": null,
+            "correct_answer": "135",
+            "quiz_explanation": null
+        },
+        "quiz_4": {
+            "task_number": 3,
+            "quiz_number": 119,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_4",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_5": {
+            "task_number": 3,
+            "quiz_number": 120,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_5",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_6": {
+            "task_number": 3,
+            "quiz_number": 121,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_6",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_7": {
+            "task_number": 3,
+            "quiz_number": 122,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_7",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_8": {
+            "task_number": 3,
+            "quiz_number": 123,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_8",
+            "quiz_condition": null,
+            "correct_answer": "123",
+            "quiz_explanation": null
+        },
+        "quiz_9": {
+            "task_number": 3,
+            "quiz_number": 124,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_9",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_10": {
+            "task_number": 3,
+            "quiz_number": 125,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_10",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_11": {
+            "task_number": 3,
+            "quiz_number": 126,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_11",
+            "quiz_condition": null,
+            "correct_answer": "2345",
+            "quiz_explanation": null
+        },
+        "quiz_12": {
+            "task_number": 3,
+            "quiz_number": 127,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_12",
+            "quiz_condition": null,
+            "correct_answer": "123",
+            "quiz_explanation": null
+        },
+        "quiz_13": {
+            "task_number": 3,
+            "quiz_number": 128,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_13",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_14": {
+            "task_number": 3,
+            "quiz_number": 129,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_14",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_15": {
+            "task_number": 3,
+            "quiz_number": 130,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_15",
+            "quiz_condition": null,
+            "correct_answer": "2345",
+            "quiz_explanation": null
+        },
+        "quiz_16": {
+            "task_number": 3,
+            "quiz_number": 131,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_16",
+            "quiz_condition": null,
+            "correct_answer": "12",
+            "quiz_explanation": null
+        },
+        "quiz_17": {
+            "task_number": 3,
+            "quiz_number": 132,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_17",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_18": {
+            "task_number": 3,
+            "quiz_number": 133,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_18",
+            "quiz_condition": null,
+            "correct_answer": "245",
+            "quiz_explanation": null
+        },
+        "quiz_19": {
+            "task_number": 3,
+            "quiz_number": 134,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_19",
+            "quiz_condition": null,
+            "correct_answer": "123",
+            "quiz_explanation": null
+        },
+        "quiz_20": {
+            "task_number": 3,
+            "quiz_number": 135,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_20",
+            "quiz_condition": null,
+            "correct_answer": "2345",
+            "quiz_explanation": null
+        },
+        "quiz_21": {
+            "task_number": 3,
+            "quiz_number": 136,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_21",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_22": {
+            "task_number": 3,
+            "quiz_number": 137,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_22",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_23": {
+            "task_number": 3,
+            "quiz_number": 138,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_23",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_24": {
+            "task_number": 3,
+            "quiz_number": 139,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_24",
+            "quiz_condition": null,
+            "correct_answer": "1245",
+            "quiz_explanation": null
+        },
+        "quiz_25": {
+            "task_number": 3,
+            "quiz_number": 140,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_25",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_26": {
+            "task_number": 3,
+            "quiz_number": 141,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_26",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_27": {
+            "task_number": 3,
+            "quiz_number": 142,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_27",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_28": {
+            "task_number": 3,
+            "quiz_number": 143,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_28",
+            "quiz_condition": null,
+            "correct_answer": "245",
+            "quiz_explanation": null
+        },
+        "quiz_29": {
+            "task_number": 3,
+            "quiz_number": 144,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_29",
+            "quiz_condition": null,
+            "correct_answer": "1235",
+            "quiz_explanation": null
+        },
+        "quiz_30": {
+            "task_number": 3,
+            "quiz_number": 145,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_30",
+            "quiz_condition": null,
+            "correct_answer": "12",
+            "quiz_explanation": null
+        },
+        "quiz_31": {
+            "task_number": 3,
+            "quiz_number": 146,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_31",
+            "quiz_condition": null,
+            "correct_answer": "135",
+            "quiz_explanation": null
+        },
+        "quiz_32": {
+            "task_number": 3,
+            "quiz_number": 147,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_32",
+            "quiz_condition": null,
+            "correct_answer": "135",
+            "quiz_explanation": null
+        },
+        "quiz_33": {
+            "task_number": 3,
+            "quiz_number": 148,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_33",
+            "quiz_condition": null,
+            "correct_answer": "1234",
+            "quiz_explanation": null
+        },
+        "quiz_34": {
+            "task_number": 3,
+            "quiz_number": 149,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_34",
+            "quiz_condition": null,
+            "correct_answer": "2345",
+            "quiz_explanation": null
+        },
+        "quiz_35": {
+            "task_number": 3,
+            "quiz_number": 150,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_35",
+            "quiz_condition": null,
+            "correct_answer": "12",
+            "quiz_explanation": null
+        },
+        "quiz_36": {
+            "task_number": 3,
+            "quiz_number": 151,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_36",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        },
+        "quiz_37": {
+            "task_number": 3,
+            "quiz_number": 152,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_37",
+            "quiz_condition": null,
+            "correct_answer": "13",
+            "quiz_explanation": null
+        },
+        "quiz_38": {
+            "task_number": 3,
+            "quiz_number": 153,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_38",
+            "quiz_condition": null,
+            "correct_answer": "125",
+            "quiz_explanation": null
+        },
+        "quiz_39": {
+            "task_number": 3,
+            "quiz_number": 154,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_39",
+            "quiz_condition": null,
+            "correct_answer": "1345",
+            "quiz_explanation": null
+        },
+        "quiz_40": {
+            "task_number": 3,
+            "quiz_number": 155,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_40",
+            "quiz_condition": null,
+            "correct_answer": "1235",
+            "quiz_explanation": null
+        },
+        "quiz_41": {
+            "task_number": 3,
+            "quiz_number": 156,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_41",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_42": {
+            "task_number": 3,
+            "quiz_number": 157,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_42",
+            "quiz_condition": null,
+            "correct_answer": "15",
+            "quiz_explanation": null
+        },
+        "quiz_43": {
+            "task_number": 3,
+            "quiz_number": 158,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_43",
+            "quiz_condition": null,
+            "correct_answer": "234",
+            "quiz_explanation": null
+        },
+        "quiz_44": {
+            "task_number": 3,
+            "quiz_number": 159,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_44",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_45": {
+            "task_number": 3,
+            "quiz_number": 160,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_45",
+            "quiz_condition": null,
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_46": {
+            "task_number": 3,
+            "quiz_number": 161,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_46",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_47": {
+            "task_number": 3,
+            "quiz_number": 162,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_47",
+            "quiz_condition": null,
+            "correct_answer": "345",
+            "quiz_explanation": null
+        },
+        "quiz_48": {
+            "task_number": 3,
+            "quiz_number": 163,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_48",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        },
+        "quiz_49": {
+            "task_number": 3,
+            "quiz_number": 164,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_49",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_50": {
+            "task_number": 3,
+            "quiz_number": 165,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_50",
+            "quiz_condition": null,
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_51": {
+            "task_number": 3,
+            "quiz_number": 166,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_51",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_52": {
+            "task_number": 3,
+            "quiz_number": 167,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_52",
+            "quiz_condition": null,
+            "correct_answer": "35",
+            "quiz_explanation": null
+        },
+        "quiz_53": {
+            "task_number": 3,
+            "quiz_number": 168,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_53",
+            "quiz_condition": null,
+            "correct_answer": "24",
+            "quiz_explanation": null
+        },
+        "quiz_54": {
+            "task_number": 3,
+            "quiz_number": 169,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_54",
+            "quiz_condition": null,
+            "correct_answer": "345",
+            "quiz_explanation": null
+        },
+        "quiz_55": {
+            "task_number": 3,
+            "quiz_number": 170,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_55",
+            "quiz_condition": null,
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_56": {
+            "task_number": 3,
+            "quiz_number": 171,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_56",
+            "quiz_condition": null,
+            "correct_answer": "145",
+            "quiz_explanation": null
+        },
+        "quiz_57": {
+            "task_number": 3,
+            "quiz_number": 172,
+            "photo_of_answer_options": "",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_3\\quiz_57",
+            "quiz_condition": null,
+            "correct_answer": "134",
+            "quiz_explanation": null
+        }
+    },
+    "task_4": {
+        "quiz_1": {
+            "task_number": 4,
+            "quiz_number": 173,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_1.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_1",
+            "quiz_condition": null,
+            "correct_answer": "24|42",
+            "quiz_explanation": null
+        },
+        "quiz_2": {
+            "task_number": 4,
+            "quiz_number": 174,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_2.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_2",
+            "quiz_condition": null,
+            "correct_answer": "134|143|314|341|413|431",
+            "quiz_explanation": null
+        },
+        "quiz_3": {
+            "task_number": 4,
+            "quiz_number": 175,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_3.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_3",
+            "quiz_condition": null,
+            "correct_answer": "134|143|314|341|413|431",
+            "quiz_explanation": null
+        },
+        "quiz_4": {
+            "task_number": 4,
+            "quiz_number": 176,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_4.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_4",
+            "quiz_condition": null,
+            "correct_answer": "1234|1243|1324|1342|1423|1432|2134|2143|2314|2341|2413|2431|3124|3142|3214|3241|3412|3421|4123|4132|4213|4231|4312|4321",
+            "quiz_explanation": null
+        },
+        "quiz_5": {
+            "task_number": 4,
+            "quiz_number": 177,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_5.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_5",
+            "quiz_condition": null,
+            "correct_answer": "14|41",
+            "quiz_explanation": null
+        },
+        "quiz_6": {
+            "task_number": 4,
+            "quiz_number": 178,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_6.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_6",
+            "quiz_condition": null,
+            "correct_answer": "123|132|213|231|312|321",
+            "quiz_explanation": null
+        },
+        "quiz_7": {
+            "task_number": 4,
+            "quiz_number": 179,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_7.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_7",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_8": {
+            "task_number": 4,
+            "quiz_number": 180,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_8.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_8",
+            "quiz_condition": null,
+            "correct_answer": "23|32",
+            "quiz_explanation": null
+        },
+        "quiz_9": {
+            "task_number": 4,
+            "quiz_number": 181,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_9.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_9",
+            "quiz_condition": null,
+            "correct_answer": "1245|1254|1425|1452|1524|1542|2145|2154|2415|2451|2514|2541|4125|4152|4215|4251|4512|4521|5124|5142|5214|5241|5412|5421",
+            "quiz_explanation": null
+        },
+        "quiz_10": {
+            "task_number": 4,
+            "quiz_number": 182,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_10.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_10",
+            "quiz_condition": null,
+            "correct_answer": "124|142|214|241|412|421",
+            "quiz_explanation": null
+        },
+        "quiz_11": {
+            "task_number": 4,
+            "quiz_number": 183,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_11.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_11",
+            "quiz_condition": null,
+            "correct_answer": "1345|1354|1435|1453|1534|1543|3145|3154|3415|3451|3514|3541|4135|4153|4315|4351|4513|4531|5134|5143|5314|5341|5413|5431",
+            "quiz_explanation": null
+        },
+        "quiz_12": {
+            "task_number": 4,
+            "quiz_number": 184,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_12.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_12",
+            "quiz_condition": null,
+            "correct_answer": "23|32",
+            "quiz_explanation": null
+        },
+        "quiz_13": {
+            "task_number": 4,
+            "quiz_number": 185,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_13.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_13",
+            "quiz_condition": null,
+            "correct_answer": "235|253|325|352|523|532",
+            "quiz_explanation": null
+        },
+        "quiz_14": {
+            "task_number": 4,
+            "quiz_number": 186,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_14.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_14",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_15": {
+            "task_number": 4,
+            "quiz_number": 187,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_15.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_15",
+            "quiz_condition": null,
+            "correct_answer": "145|154|415|451|514|541",
+            "quiz_explanation": null
+        },
+        "quiz_16": {
+            "task_number": 4,
+            "quiz_number": 188,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_16.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_16",
+            "quiz_condition": null,
+            "correct_answer": "124|142|214|241|412|421",
+            "quiz_explanation": null
+        },
+        "quiz_17": {
+            "task_number": 4,
+            "quiz_number": 189,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_17.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_17",
+            "quiz_condition": null,
+            "correct_answer": "123|132|213|231|312|321",
+            "quiz_explanation": null
+        },
+        "quiz_18": {
+            "task_number": 4,
+            "quiz_number": 190,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_18.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_18",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_19": {
+            "task_number": 4,
+            "quiz_number": 191,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_19.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_19",
+            "quiz_condition": null,
+            "correct_answer": "134|143|314|341|413|431",
+            "quiz_explanation": null
+        },
+        "quiz_20": {
+            "task_number": 4,
+            "quiz_number": 192,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_20.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_20",
+            "quiz_condition": null,
+            "correct_answer": "135|153|315|351|513|531",
+            "quiz_explanation": null
+        },
+        "quiz_21": {
+            "task_number": 4,
+            "quiz_number": 193,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_21.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_21",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_22": {
+            "task_number": 4,
+            "quiz_number": 194,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_22.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_22",
+            "quiz_condition": null,
+            "correct_answer": "2345|2354|2435|2453|2534|2543|3245|3254|3425|3452|3524|3542|4235|4253|4325|4352|4523|4532|5234|5243|5324|5342|5423|5432",
+            "quiz_explanation": null
+        },
+        "quiz_23": {
+            "task_number": 4,
+            "quiz_number": 195,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_23.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_23",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_24": {
+            "task_number": 4,
+            "quiz_number": 196,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_24.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_24",
+            "quiz_condition": null,
+            "correct_answer": "245|254|425|452|524|542",
+            "quiz_explanation": null
+        },
+        "quiz_25": {
+            "task_number": 4,
+            "quiz_number": 197,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_25.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_25",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_26": {
+            "task_number": 4,
+            "quiz_number": 198,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_26.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_26",
+            "quiz_condition": null,
+            "correct_answer": "145|154|415|451|514|541",
+            "quiz_explanation": null
+        },
+        "quiz_27": {
+            "task_number": 4,
+            "quiz_number": 199,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_27.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_27",
+            "quiz_condition": null,
+            "correct_answer": "245|254|425|452|524|542",
+            "quiz_explanation": null
+        },
+        "quiz_28": {
+            "task_number": 4,
+            "quiz_number": 200,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_28.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_28",
+            "quiz_condition": null,
+            "correct_answer": "234|243|324|342|423|432",
+            "quiz_explanation": null
+        },
+        "quiz_29": {
+            "task_number": 4,
+            "quiz_number": 201,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_29.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_29",
+            "quiz_condition": null,
+            "correct_answer": "134|143|314|341|413|431",
+            "quiz_explanation": null
+        },
+        "quiz_30": {
+            "task_number": 4,
+            "quiz_number": 202,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_30.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_30",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_31": {
+            "task_number": 4,
+            "quiz_number": 203,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_31.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_31",
+            "quiz_condition": null,
+            "correct_answer": "1235|1253|1325|1352|1523|1532|2135|2153|2315|2351|2513|2531|3125|3152|3215|3251|3512|3521|5123|5132|5213|5231|5312|5321",
+            "quiz_explanation": null
+        },
+        "quiz_32": {
+            "task_number": 4,
+            "quiz_number": 204,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_32.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_32",
+            "quiz_condition": null,
+            "correct_answer": "124|142|214|241|412|421",
+            "quiz_explanation": null
+        },
+        "quiz_33": {
+            "task_number": 4,
+            "quiz_number": 205,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_33.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_33",
+            "quiz_condition": null,
+            "correct_answer": "123|132|213|231|312|321",
+            "quiz_explanation": null
+        },
+        "quiz_34": {
+            "task_number": 4,
+            "quiz_number": 206,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_34.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_34",
+            "quiz_condition": null,
+            "correct_answer": "135|153|315|351|513|531",
+            "quiz_explanation": null
+        },
+        "quiz_35": {
+            "task_number": 4,
+            "quiz_number": 207,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_35.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_35",
+            "quiz_condition": null,
+            "correct_answer": "245|254|425|452|524|542",
+            "quiz_explanation": null
+        },
+        "quiz_36": {
+            "task_number": 4,
+            "quiz_number": 208,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_36.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_36",
+            "quiz_condition": null,
+            "correct_answer": "2345|2354|2435|2453|2534|2543|3245|3254|3425|3452|3524|3542|4235|4253|4325|4352|4523|4532|5234|5243|5324|5342|5423|5432",
+            "quiz_explanation": null
+        },
+        "quiz_37": {
+            "task_number": 4,
+            "quiz_number": 209,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_37.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_37",
+            "quiz_condition": null,
+            "correct_answer": "145|154|415|451|514|541",
+            "quiz_explanation": null
+        },
+        "quiz_38": {
+            "task_number": 4,
+            "quiz_number": 210,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_38.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_38",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_39": {
+            "task_number": 4,
+            "quiz_number": 211,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_39.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_39",
+            "quiz_condition": null,
+            "correct_answer": "2345|2354|2435|2453|2534|2543|3245|3254|3425|3452|3524|3542|4235|4253|4325|4352|4523|4532|5234|5243|5324|5342|5423|5432",
+            "quiz_explanation": null
+        },
+        "quiz_40": {
+            "task_number": 4,
+            "quiz_number": 212,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_40.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_40",
+            "quiz_condition": null,
+            "correct_answer": "125|152|215|251|512|521",
+            "quiz_explanation": null
+        },
+        "quiz_41": {
+            "task_number": 4,
+            "quiz_number": 213,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_41.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_41",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_42": {
+            "task_number": 4,
+            "quiz_number": 214,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_42.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_42",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_43": {
+            "task_number": 4,
+            "quiz_number": 215,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_43.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_43",
+            "quiz_condition": null,
+            "correct_answer": "25|52",
+            "quiz_explanation": null
+        },
+        "quiz_44": {
+            "task_number": 4,
+            "quiz_number": 216,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_44.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_44",
+            "quiz_condition": null,
+            "correct_answer": "235|253|325|352|523|532",
+            "quiz_explanation": null
+        },
+        "quiz_45": {
+            "task_number": 4,
+            "quiz_number": 217,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_45.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_45",
+            "quiz_condition": null,
+            "correct_answer": "245|254|425|452|524|542",
+            "quiz_explanation": null
+        },
+        "quiz_46": {
+            "task_number": 4,
+            "quiz_number": 218,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_46.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_46",
+            "quiz_condition": null,
+            "correct_answer": "134|143|314|341|413|431",
+            "quiz_explanation": null
+        },
+        "quiz_47": {
+            "task_number": 4,
+            "quiz_number": 219,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_47.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_47",
+            "quiz_condition": null,
+            "correct_answer": "12|21",
+            "quiz_explanation": null
+        },
+        "quiz_48": {
+            "task_number": 4,
+            "quiz_number": 220,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_48.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_48",
+            "quiz_condition": null,
+            "correct_answer": "145|154|415|451|514|541",
+            "quiz_explanation": null
+        },
+        "quiz_49": {
+            "task_number": 4,
+            "quiz_number": 221,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_49.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_49",
+            "quiz_condition": null,
+            "correct_answer": "15|51",
+            "quiz_explanation": null
+        },
+        "quiz_50": {
+            "task_number": 4,
+            "quiz_number": 222,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_50.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_50",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_51": {
+            "task_number": 4,
+            "quiz_number": 223,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_51.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_51",
+            "quiz_condition": null,
+            "correct_answer": "123|132|213|231|312|321",
+            "quiz_explanation": null
+        },
+        "quiz_52": {
+            "task_number": 4,
+            "quiz_number": 224,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_52.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_52",
+            "quiz_condition": null,
+            "correct_answer": "345|354|435|453|534|543",
+            "quiz_explanation": null
+        },
+        "quiz_53": {
+            "task_number": 4,
+            "quiz_number": 225,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_53.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_53",
+            "quiz_condition": null,
+            "correct_answer": "24|42",
+            "quiz_explanation": null
+        },
+        "quiz_54": {
+            "task_number": 4,
+            "quiz_number": 226,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_54.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_54",
+            "quiz_condition": null,
+            "correct_answer": "24|42",
+            "quiz_explanation": null
+        },
+        "quiz_55": {
+            "task_number": 4,
+            "quiz_number": 227,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_55.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_55",
+            "quiz_condition": null,
+            "correct_answer": "135|153|315|351|513|531",
+            "quiz_explanation": null
+        },
+        "quiz_56": {
+            "task_number": 4,
+            "quiz_number": 228,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_56.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_56",
+            "quiz_condition": null,
+            "correct_answer": "45|54",
+            "quiz_explanation": null
+        },
+        "quiz_57": {
+            "task_number": 4,
+            "quiz_number": 229,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_57.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_57",
+            "quiz_condition": null,
+            "correct_answer": "245|254|425|452|524|542",
+            "quiz_explanation": null
+        },
+        "quiz_58": {
+            "task_number": 4,
+            "quiz_number": 230,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_58.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_58",
+            "quiz_condition": null,
+            "correct_answer": "23|32",
+            "quiz_explanation": null
+        },
+        "quiz_59": {
+            "task_number": 4,
+            "quiz_number": 231,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_4\\quiz_59.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_4\\quiz_59",
+            "quiz_condition": null,
+            "correct_answer": "145|154|415|451|514|541",
+            "quiz_explanation": null
+        }
+    },
+    "task_10": {
+        "quiz_1": {
+            "task_number": 10,
+            "quiz_number": 59,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_10\\quiz_1.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_10\\quiz_1",
+            "quiz_condition": null,
+            "quiz_answer_options": [
+                "125",
+                "124",
+                "135",
+                "245"
+            ],
+            "correct_answer": "124",
+            "quiz_explanation": null
+        },
+        "quiz_2": {
+            "task_number": 10,
+            "quiz_number": 60,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_10\\quiz_2.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_10\\quiz_2",
+            "quiz_condition": null,
+            "quiz_answer_options": [
+                "25",
+                "15",
+                "235",
+                "134"
+            ],
+            "correct_answer": "25",
+            "quiz_explanation": null
+        },
+        "quiz_3": {
+            "task_number": 10,
+            "quiz_number": 61,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_10\\quiz_3.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_10\\quiz_3",
+            "quiz_condition": null,
+            "quiz_answer_options": [
+                "23",
+                "34",
+                "25",
+                "124"
+            ],
+            "correct_answer": "23",
+            "quiz_explanation": null
+        },
+        "quiz_4": {
+            "task_number": 10,
+            "quiz_number": 62,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_10\\quiz_4.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_10\\quiz_4",
+            "quiz_condition": null,
+            "quiz_answer_options": [
+                "34",
+                "134",
+                "235",
+                "13"
+            ],
+            "correct_answer": "34",
+            "quiz_explanation": null
+        },
+        "quiz_5": {
+            "task_number": 10,
+            "quiz_number": 63,
+            "photo_of_answer_options": "Tasks_materials\\conditions_of_quizzes\\task_10\\quiz_5.png",
+            "quiz_question": "Tasks_materials\\questions_for_quizzes\\task_10\\quiz_5",
+            "quiz_condition": null,
+            "quiz_answer_options": [
+                "23",
+                "12",
+                "245",
+                "34"
+            ],
+            "correct_answer": "23",
+            "quiz_explanation": null
+        }
+    }
+}
